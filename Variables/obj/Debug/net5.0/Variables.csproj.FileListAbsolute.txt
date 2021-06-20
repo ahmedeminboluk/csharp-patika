@@ -1,0 +1,15 @@
+C:\Users\ahmed\Desktop\csharp-patika\Variables\bin\Debug\net5.0\Variables.exe
+C:\Users\ahmed\Desktop\csharp-patika\Variables\bin\Debug\net5.0\Variables.deps.json
+C:\Users\ahmed\Desktop\csharp-patika\Variables\bin\Debug\net5.0\Variables.runtimeconfig.json
+C:\Users\ahmed\Desktop\csharp-patika\Variables\bin\Debug\net5.0\Variables.runtimeconfig.dev.json
+C:\Users\ahmed\Desktop\csharp-patika\Variables\bin\Debug\net5.0\Variables.dll
+C:\Users\ahmed\Desktop\csharp-patika\Variables\bin\Debug\net5.0\ref\Variables.dll
+C:\Users\ahmed\Desktop\csharp-patika\Variables\bin\Debug\net5.0\Variables.pdb
+C:\Users\ahmed\Desktop\csharp-patika\Variables\obj\Debug\net5.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\Desktop\csharp-patika\Variables\obj\Debug\net5.0\Variables.AssemblyInfoInputs.cache
+C:\Users\ahmed\Desktop\csharp-patika\Variables\obj\Debug\net5.0\Variables.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\csharp-patika\Variables\obj\Debug\net5.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\csharp-patika\Variables\obj\Debug\net5.0\Variables.dll
+C:\Users\ahmed\Desktop\csharp-patika\Variables\obj\Debug\net5.0\ref\Variables.dll
+C:\Users\ahmed\Desktop\csharp-patika\Variables\obj\Debug\net5.0\Variables.pdb
+C:\Users\ahmed\Desktop\csharp-patika\Variables\obj\Debug\net5.0\Variables.genruntimeconfig.cache
